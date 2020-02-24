@@ -1,4 +1,4 @@
-# Task List Vue
+# Tasklist Vue
 
 ## Project setup
 ```
