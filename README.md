@@ -1,4 +1,4 @@
-# vue-learn
+# Task List Vue
 
 ## Project setup
 ```
